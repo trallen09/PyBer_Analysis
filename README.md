@@ -4,6 +4,8 @@ Module 5 PyBer_Analysis
 ### Overview of Project
 Overview of the analysis: The task was to visualize ride-sharing data by city type. Those city types are Urban, Suburban, and Rural. For each type of city, the goal was to show the total weekly fares for each city type for 2019-01-01 through 2019-04-29.
 
+All files can be located [Here](http://github.com)
+
 ## Results
 Results: There aren't as many rides or drivers but the Rural drivers make the most money per ride and per driver. Second, would be the suburban drivers.
 
@@ -34,8 +36,10 @@ Results: There aren't as many rides or drivers but the Rural drivers make the mo
 ### Summary
 Recommendation:
   - Look into increasing Urban driver's pay based on the low incentive relative to the rest of the city types
-  - 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
+  - Gather more data to include wait times
+  - Look into moving Urban drivers to Suburban and Rural areas
+  
+Based on the analysis, I think we should look into incitivizing current Urban drivers or look into moving Urban drivers into more lucrative city types. Gathering more data to include wait times and Pyber's ability to service it's customers would be helpful. 
 
 
 
